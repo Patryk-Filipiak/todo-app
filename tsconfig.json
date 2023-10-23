@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "target": "ES6",
+    "module": "CommonJS",
+    "jsx": "react",
+    // inne opcje konfiguracyjne
+    "esModuleInterop": true,
+  }
+}
